@@ -3,11 +3,11 @@ Shadowtests
 
 Test connectivity to a Shadowsocks server
 
-#Usage
+# Usage
 
 shadowtests.py IP/Domain Port Password Method
 
-###Optional switches:
+### Optional switches:
 
 * -S, --simple
 
